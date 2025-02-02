@@ -9,7 +9,7 @@ repo_name: deependujha/cuda-mode
 repo_url: https://github.com/deependujha/cuda-mode
 
 # Copyright
-copyright: Copyright &copy; 2024 Deependu Jha
+copyright: Copyright &copy; 2024-2027 Deependu Jha
 
 extra_css:
   - stylesheets/my-style.css
